@@ -1,0 +1,26 @@
+Premissas:
+- Ser design limpo (Sem animações)
+- Pouca poluição visual (Banners muito grandes, fotos de flor com um fundo sem ser branco, etc...
+- Pagina centralizada
+- Cabeçalho com 2 versões
+- Rodapé somente ao rolar e chegar no final, sem exibição anterior a isso
+- Funcionalidades mais simples: Página de favoritos, carrinho, etc.. não tem como absorver agora.
+
+Link do preview da página
+https://www.figma.com/team_invite/redeem/rJPh9faNUvfR2LGTLuUewP
+
+Links de benchmark:
+
+https://www.saleteflores.com.br/
+https://www.floresonline.com.br/cidades/floricultura-rio-grande.html?gclid=CjwKCAiA3L6PBhBvEiwAINlJ9NCF7I3B5PeaoNX51cbJz6-pVNVdgpQ9ph4NpP852b797D78F1pPzxoCHWUQAvD_BwE
+https://www.isabelaflores.com/?gclid=CjwKCAiA3L6PBhBvEiwAINlJ9EpDnkfbPtN7xzEssB8K6zJ_c2ffUSe5ED-6Z-BiBoiCCAbGgxBVPhoCXukQAvD_BwE
+https://www.giulianaflores.com.br/
+https://www.uniflores.com.br/
+https://bonjourflores.com.br/?gclid=CjwKCAiA3L6PBhBvEiwAINlJ9LJdOoCTQSFA6t5eMimlBYMPvLbQqLtJwcNJo1--adkjX8J2rj3LEBoC-kMQAvD_BwE
+https://floriculturabellarosa.com.br/
+https://www.floriculturakalachue.com.br/
+https://www.riodeflores.com.br/
+https://avarandafloricultura.com.br/
+https://www.cristalflores.com.br/
+https://www.floriculturasantafe.com.br/floricultura-em-porto-alegre.php
+https://joaodasrosas.com.br/
